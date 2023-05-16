@@ -24,7 +24,7 @@ const blogs = [
 const Sidebar = () => {
     return(
         <div className="sidebar">
-            <h2 className="sidebar__title">Up next</h2>
+            <h2 className="sidebar__title">On other blogs</h2>
             <div className="sidebar__highlights">
                 {
                     blogs.map((blog, index) => (

@@ -1,7 +1,7 @@
 function Title(){
     return(
         <header>
-            <h1 className="title">Otwoma Tech Blog</h1>
+            <h1 className="title">Kitten Blog</h1>
         </header>
     )
 }
